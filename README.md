@@ -1,4 +1,4 @@
-# certificates
+# Certificates
 
 This is a location I will use to store various certificates that can not be stored within Credly.
 
